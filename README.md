@@ -18,6 +18,6 @@ Node Exporter: http://localhost:9100/metrics
 ## Запуск
 
 ```bash
-git clone https://github.com/твоя-ссылка/prometheus-grafana.git
+git clone https://github.com/Kislenky1/Prometheus-Grafana-Monitoring-Stack.git
 cd prometheus-grafana
 sudo docker compose up -d
