@@ -8,7 +8,9 @@
 - Docker Compose — управление контейнерами
 
 Grafana: http://localhost:3000 (admin / admin)
+
 Prometheus: http://localhost:9090
+
 Node Exporter: http://localhost:9100/metrics
 
 ## Примеры работы Grafana и Prometheus доступны в папке screenshots/.
