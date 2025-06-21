@@ -11,7 +11,7 @@
 ```bash
 git clone https://github.com/твоя-ссылка/prometheus-grafana.git
 cd prometheus-grafana
-sudo docker compose up -d
+sudo docker compose up -d```
 
 Grafana: http://localhost:3000 (admin / admin)
 Prometheus: http://localhost:9090
